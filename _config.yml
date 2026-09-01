@@ -5,11 +5,12 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jingtao
 middle_name: 
-last_name: Sun
+last_name: Sun (孙敬陶)
 contact_note: >
   Please feel free to contact me by email: jingtao_sun.research@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am currently a Research Fellow in Show lab at the National University of Singapore, working with Prof. Mike Shou Zheng.
+  I am currently a Research Fellow in Show lab at the National University of Singapore, working with Prof. Mike Shou Zheng. 
+  Prior to this, I spent a wonderful year as a Research Fellow at Robotics Research Lab (NUS), working with Prof. Sam Ge Shuzhi.
   I received my Ph.D. degree from Hunan University in 2024, where I was affiliated with the National Engineering Research Centre for Robot Visual
   Perception and Control (机器人视觉感知与控制技术国家工程研究中心), under the supervision of Prof. Yaonan Wang, where I also received my bachelor
   and master degrees.
