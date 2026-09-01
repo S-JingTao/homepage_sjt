@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://s-jingtao.github.io/sitemap.xml
+Sitemap: https://s-jingtao.github.io/homepage_sjt/sitemap.xml
