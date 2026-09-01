@@ -29,6 +29,7 @@ I am currently a Research Fellow in
 National University of Singapore (NUS),
 working with
 [Prof. Mike Shou Zheng](https://sites.google.com/view/showlab).
+ Prior to this, I spent a wonderful year as a Research Fellow at Robotics Research Lab (NUS), working with Prof. Sam Ge Shuzhi.
 
 I received my Ph.D. degree from
 Hunan University in 2024, where I was
@@ -38,6 +39,5 @@ under the supervision of
 [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). I also received my bachelor's
 and master's degrees from Hunan University.
 
-My research interests include **robotics**, **physical AI**,
-**multimodal learning**, **autonomous driving**, and
-**computer vision**.
+My current research interests include **robotics**, **physical AI**,
+**multimodal learning**, **autonomous driving**.
