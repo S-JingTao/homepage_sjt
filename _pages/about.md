@@ -6,11 +6,9 @@ subtitle: Research Fellow, National University of Singapore
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sjt_new.png
   image_circular: false
-  more_info: >
-    <p>National University of Singapore</p>
-    <p>Singapore</p>
+  more_info:
 
 selected_papers: true
 social: true
