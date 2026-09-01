@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to TPAMI.
+One paper accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
