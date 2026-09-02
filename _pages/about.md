@@ -42,57 +42,50 @@ My current research interests include **Robotics**, **Physical AI**,
 
 <div style="height: 60px;"></div>
 
-<h2>representative projects</h2>
+<h2>Representative Projects</h2>
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 22px;
-  margin: 20px 0 36px;
-">
+<div class="representative-project-grid">
 
-<div class="Representative Project-grid">
-
-  <a class="Representative Project-card" href="">
+  <a class="representative-project-card" href="项目1链接">
     <img
       src="{{ '/assets/img/projects/project1.gif' | relative_url }}"
       alt="Project 1"
     >
-    <div class="selected-project-title">Project 1 Title</div>
-    <div class="selected-project-description">
+    <div class="representative-project-title">Project 1 Title</div>
+    <div class="representative-project-description">
       A short description of Project 1.
     </div>
   </a>
 
-  <a class="Representative Project" href="">
+  <a class="representative-project-card" href="项目2链接">
     <img
       src="{{ '/assets/img/projects/project2.gif' | relative_url }}"
       alt="Project 2"
     >
-    <div class="selected-project-title">Project 2 Title</div>
-    <div class="selected-project-description">
+    <div class="representative-project-title">Project 2 Title</div>
+    <div class="representative-project-description">
       A short description of Project 2.
     </div>
   </a>
 
-  <a class="Representative Project-card" href="">
+  <a class="representative-project-card" href="项目3链接">
     <img
       src="{{ '/assets/img/projects/project3.gif' | relative_url }}"
       alt="Project 3"
     >
-    <div class="selected-project-title">Project 3 Title</div>
-    <div class="selected-project-description">
+    <div class="representative-project-title">Project 3 Title</div>
+    <div class="representative-project-description">
       A short description of Project 3.
     </div>
   </a>
 
-  <a class="Representative Project-card" href="">
+  <a class="representative-project-card" href="项目4链接">
     <img
       src="{{ '/assets/img/projects/project4.gif' | relative_url }}"
       alt="Project 4"
     >
-    <div class="selected-project-title">Project 4 Title</div>
-    <div class="selected-project-description">
+    <div class="representative-project-title">Project 4 Title</div>
+    <div class="representative-project-description">
       A short description of Project 4.
     </div>
   </a>
@@ -100,14 +93,14 @@ My current research interests include **Robotics**, **Physical AI**,
 </div>
 
 <style>
-.selected-project-grid {
+.representative-project-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 22px;
   margin: 20px 0 36px;
 }
 
-.Representative Project-card {
+.representative-project-card {
   display: block;
   overflow: hidden;
   color: inherit;
@@ -117,35 +110,35 @@ My current research interests include **Robotics**, **Physical AI**,
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.Representative Project-card:hover {
+.representative-project-card:hover {
   color: inherit;
   text-decoration: none;
   transform: translateY(-3px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
 }
 
-.Representative Project-card img {
+.representative-project-card img {
   display: block;
   width: 100%;
   aspect-ratio: 16 / 9;
   object-fit: cover;
 }
 
-.Representative Project-title {
+.representative-project-title {
   padding: 12px 14px 4px;
   font-size: 1.05rem;
   font-weight: 600;
 }
 
-.Representative Project-description {
+.representative-project-description {
   padding: 0 14px 14px;
   font-size: 0.9rem;
   color: #999;
 }
 
 @media (max-width: 700px) {
-  .Representative Project-grid {
+  .representative-project-grid {
     grid-template-columns: 1fr;
   }
 }
-<\style>
+</style>
