@@ -37,8 +37,10 @@ under the supervision of
 [Prof. Yaonan Wang (王耀南)](https://robotics.hnu.edu.cn/info/1176/3098.htm). I also received my bachelor's
 and master's degrees from Hunan University.
 
-My current research interests include **robotics**, **physical AI**,
-**multimodal learning**, **autonomous driving**.
+My current research interests include **Robotics**, **Physical AI**,
+**Multimodal Learning**, **Autonomous Driving**.
+
+<div style="height: 60px;"></div>
 
 <h2>Representative Projects</h2>
 
