@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow, National University of Singapore
+subtitle: Postdoctoral/Research Fellow, NUS
 
 profile:
   align: right
   image: sjt_new.png
   image_circular: false
-  more_info:
+  more_info: jingtaosun.research@gmail.com
 
 selected_papers: true
 social: true
@@ -27,14 +27,14 @@ I am currently a Research Fellow in
 National University of Singapore (NUS),
 working with
 [Prof. Mike Shou Zheng](https://sites.google.com/view/showlab).
- Prior to this, I spent a wonderful year as a Research Fellow at Robotics Research Lab (NUS), working with Prof. Sam Ge Shuzhi.
+ Prior to this, I spent a wonderful year as a Research Fellow at Social Robotics Lab (NUS), working with Prof. Sam Ge Shuzhi (IEEE Fellow).
 
 I received my Ph.D. degree from
 Hunan University in 2024, where I was
 affiliated with the National Engineering Research Centre for Robot
 Visual Perception and Control [(机器人视觉感知与控制技术国家工程研究中心)](https://robot.hnu.edu.cn/index.htm),
 under the supervision of
-[Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). I also received my bachelor's
+[Prof. Yaonan Wang (王耀南)](https://robotics.hnu.edu.cn/info/1176/3098.htm). I also received my bachelor's
 and master's degrees from Hunan University.
 
 My current research interests include **robotics**, **physical AI**,
