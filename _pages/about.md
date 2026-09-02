@@ -42,7 +42,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
 <div style="height: 60px;"></div>
 
-<h2>Representative Projects</h2>
+<h2>representative projects</h2>
 
 <div class="representative-project-grid">
 
@@ -120,8 +120,8 @@ My current research interests include **Robotics**, **Physical AI**,
 .representative-project-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 
 .representative-project-title {
