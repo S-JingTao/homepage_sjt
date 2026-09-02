@@ -27,7 +27,7 @@ I am currently a Research Fellow in
 National University of Singapore (NUS),
 working with
 [Prof. Mike Shou Zheng](https://sites.google.com/view/showlab).
- Prior to this, I spent a wonderful year as a Research Fellow at Social Robotics Lab (NUS), working with [Prof. Sam Ge Shuzhi (IEEE Fellow)](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/).
+ Prior to this, I spent a wonderful year as a Research Fellow at Social Robotics Lab (NUS), working with [Prof. Sam Ge Shuzhi (IEEE Fellow)](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I previously worked as a AI Research Scientist at Huawei Co., Ltd. Wuhan Research Institute in China.
 
 I received my Ph.D. degree from
 Hunan University in 2024, where I was
