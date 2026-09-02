@@ -23,7 +23,7 @@ latest_posts:
 ---
 
 I am currently a Research Fellow in
-[Show Lab](https://sites.google.com/view/showlab) at the
+[Show Lab](https://sites.google.com/view/showlab) at the Electrical and Computer Engineering,
 National University of Singapore (NUS),
 working with
 [Prof. Mike Shou Zheng](https://sites.google.com/view/showlab).
