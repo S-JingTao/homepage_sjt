@@ -42,7 +42,14 @@ My current research interests include **Robotics**, **Physical AI**,
 
 <div style="height: 60px;"></div>
 
-<h2>Representative Projects</h2>
+<h2>representative projects</h2>
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 20px 0 36px;
+">
 
 <div class="Representative Project-grid">
 
