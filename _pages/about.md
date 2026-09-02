@@ -51,9 +51,10 @@ My current research interests include **Robotics**, **Physical AI**,
       src="{{ '/assets/img/projects/robot_learning.gif' | relative_url }}"
       alt="Project 1"
     >
-    <div class="representative-project-title">Project 1 Title</div>
+    <div class="representative-project-title">Multimodal Generalist Robotic Agents</div>
     <div class="representative-project-description">
-      A short description of Project 1.
+       Develop generalist robot policies that integrate multi-modality states, including vision, language, touch and robot control, from large-scale human videos, perform diverse real-world tasks with minimal robot-specific demonstrations.
+
     </div>
   </a>
 
@@ -62,9 +63,9 @@ My current research interests include **Robotics**, **Physical AI**,
       src="{{ '/assets/img/projects/aerial_robot.gif' | relative_url }}"
       alt="Project 2"
     >
-    <div class="representative-project-title">Project 2 Title</div>
+    <div class="representative-project-title">Air-Ground Robotic Manipulation</div>
     <div class="representative-project-description">
-      A short description of Project 2.
+      Develop collaborative air-ground robotic manipulation systems that integrate aerial perception, ground-based operation, and multimodal sensing to perform complex tasks in dynamic and unstructured environments.
     </div>
   </a>
 
@@ -73,9 +74,9 @@ My current research interests include **Robotics**, **Physical AI**,
       src="{{ '/assets/img/projects/autonomous_driving.gif' | relative_url }}"
       alt="Project 3"
     >
-    <div class="representative-project-title">Project 3 Title</div>
+    <div class="representative-project-title">End-to-End Autonomous Driving Agents</div>
     <div class="representative-project-description">
-      A short description of Project 3.
+      Develop autonomous driving agents that integrate vision, LiDAR, language, and vehicle-state information for comprehensive scene understanding, reliable decision-making, and safe trajectory planning in complex driving environments.
     </div>
   </a>
 
@@ -84,9 +85,9 @@ My current research interests include **Robotics**, **Physical AI**,
       src="{{ '/assets/img/projects/pose.gif' | relative_url }}"
       alt="Project 4"
     >
-    <div class="representative-project-title">Project 4 Title</div>
+    <div class="representative-project-title">Pose Tracking & Shape Reconstruction</div>
     <div class="representative-project-description">
-      A short description of Project 4.
+      Develop categorical pose tracking and shape reconstruction methods to provide accurate spatial understanding and dynamic object representations for perception-driven robot learning and reliable manipulation in complex real-world environments.
     </div>
   </a>
 
