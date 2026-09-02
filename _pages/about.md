@@ -54,7 +54,6 @@ My current research interests include **Robotics**, **Physical AI**,
     <div class="representative-project-title">Multimodal Generalist Robotic Agents</div>
     <div class="representative-project-description">
        Develop generalist robot policies that integrate multi-modality states, including vision, language, touch and robot control, from large-scale human videos, perform diverse real-world tasks with minimal robot-specific demonstrations.
-
     </div>
   </a>
 
