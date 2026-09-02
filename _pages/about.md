@@ -120,7 +120,7 @@ My current research interests include **Robotics**, **Physical AI**,
 .representative-project-card img {
   display: block;
   width: 100%;
-  height: 200px;
+  height: 250px;
   object-fit: fill;
   object-position: center;
   border-radius: 8px 8px 0 0;
