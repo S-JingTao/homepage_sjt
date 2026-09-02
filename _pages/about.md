@@ -48,7 +48,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
   <a class="representative-project-card" href="项目1链接">
     <img
-      src="{{ '/assets/img/projects/project1.gif' | relative_url }}"
+      src="{{ '/assets/img/projects/robot_learning.gif' | relative_url }}"
       alt="Project 1"
     >
     <div class="representative-project-title">Project 1 Title</div>
@@ -59,7 +59,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
   <a class="representative-project-card" href="项目2链接">
     <img
-      src="{{ '/assets/img/projects/project2.gif' | relative_url }}"
+      src="{{ '/assets/img/projects/aerial_robot.gif' | relative_url }}"
       alt="Project 2"
     >
     <div class="representative-project-title">Project 2 Title</div>
@@ -70,7 +70,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
   <a class="representative-project-card" href="项目3链接">
     <img
-      src="{{ '/assets/img/projects/project3.gif' | relative_url }}"
+      src="{{ '/assets/img/projects/autonomous_driving.gif' | relative_url }}"
       alt="Project 3"
     >
     <div class="representative-project-title">Project 3 Title</div>
@@ -81,7 +81,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
   <a class="representative-project-card" href="项目4链接">
     <img
-      src="{{ '/assets/img/projects/project4.gif' | relative_url }}"
+      src="{{ '/assets/img/projects/pose.gif' | relative_url }}"
       alt="Project 4"
     >
     <div class="representative-project-title">Project 4 Title</div>
