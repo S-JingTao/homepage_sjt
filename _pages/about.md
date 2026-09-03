@@ -46,20 +46,46 @@ My current research interests include **Robotics**, **Physical AI**,
 
 <div class="representative-project-grid">
 
-  <a class="representative-project-card" href="项目1链接">
+  <div class="representative-project-card">
+
+  <a class="representative-project-main" href="项目1链接">
     <img
       src="{{ '/assets/img/projects/robot_learning.gif' | relative_url }}"
-      alt="Project 1"
+      alt="Multimodal Generalist Robotic Agents"
     >
-    <div class="representative-project-title">Multimodal Generalist Robotic Agents</div>
-    <div class="representative-project-description">
-       Develop generalist robot policies that integrate multi-modality states, including vision, language, touch and robot control, from large-scale human videos, perform diverse real-world tasks with minimal robot-specific demonstrations.
+
+    <div class="representative-project-title">
+      Multimodal Generalist Robotic Agents
     </div>
-    <div class="representative-project-paper">
-  Papers:
-  <a href="https://arxiv.org/abs/2602.12532" target="_blank">ICRA2026</a>
-  ·
-  <a href="论文2链接" target="_blank">TII2026</a>
+  </a>
+
+  <div class="representative-project-description">
+    Develop generalist robot policies that integrate multimodal states,
+    including vision, language, touch, and robot control, learn from
+    large-scale human videos, and perform diverse real-world tasks with
+    minimal robot-specific demonstrations.
+  </div>
+
+  <div class="representative-project-paper">
+    <strong>Papers:</strong>
+    <a
+      href="https://arxiv.org/abs/2602.12532"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      ICRA 2026
+    </a>
+    ·
+    <a
+      href="论文2链接"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      TII 2026
+    </a>
+  </div>
+
+</div>
       
 </div>
     
@@ -164,7 +190,7 @@ My current research interests include **Robotics**, **Physical AI**,
 }
 
 .representative-project-paper a {
-  color: #b39ddb;
+  color: inherit;
   font-weight: 500;
   text-decoration: none;
 }
