@@ -201,3 +201,82 @@ My current research interests include **Robotics**, **Physical AI**,
   </div>
 
 </div>
+
+<style>
+.representative-project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 20px 0 36px;
+}
+
+.representative-project-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  color: inherit;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.representative-project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+}
+
+.representative-project-main {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.representative-project-main:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.representative-project-card img {
+  display: block;
+  width: 100%;
+  height: 260px;
+  object-fit: fill;
+  border-radius: 8px 8px 0 0;
+}
+
+.representative-project-title {
+  padding: 12px 14px 4px;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.representative-project-description {
+  flex-grow: 1;
+  padding: 4px 14px 12px;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+.representative-project-paper {
+  margin-top: auto;
+  padding: 4px 14px 16px;
+  font-size: 0.9rem;
+  color: #b39ddb;
+}
+
+.representative-project-paper a {
+  color: #b39ddb;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.representative-project-paper a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  .representative-project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
