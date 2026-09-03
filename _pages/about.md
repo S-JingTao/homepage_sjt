@@ -68,7 +68,7 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <span>Papers:</span>
+      <span>Paper:</span>
       <a
         href="https://arxiv.org/abs/2602.12532"
         target="_blank"
@@ -76,7 +76,7 @@ My current research interests include **Robotics**, **Physical AI**,
       >ICRA 2026</a>
       ·
       <a
-        href="论文2链接"
+        href="https://ieeexplore.ieee.org/abstract/document/11363633"
         target="_blank"
         rel="noopener noreferrer"
       >TII 2026</a>
@@ -106,18 +106,24 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
 <div class="representative-project-paper">
-      <span>Papers:</span>
+      <span>Paper:</span>
       <a
-        href="论文1链接"
+        href="https://ieeexplore.ieee.org/abstract/document/10949865"
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 1</a>
+      >TPAMI2025</a>
       ·
       <a
-        href="论文2链接"
+        href="https://ieeexplore.ieee.org/abstract/document/10814715"
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 2</a>
+      >TMM2024</a>
+      ·
+      <a
+        href="https://ieeexplore.ieee.org/abstract/document/9982183"
+        target="_blank"
+        rel="noopener noreferrer"
+      >IROS2022 Oral</a>
     </div>
 
   </div>
@@ -145,18 +151,18 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <span>Papers:</span>
+      <span>Paper:</span>
       <a
-        href="论文1链接"
+        href="https://arxiv.org/abs/2608.20890"
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 1</a>
+      >CMMI</a>
       ·
       <a
-        href="论文2链接"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 2</a>
+      >IntentDrive</a>
     </div>
 
   </div>
@@ -184,18 +190,24 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <span>Papers:</span>
+      <span>Paper:</span>
       <a
-        href="论文1链接"
+        href="https://ieeexplore.ieee.org/abstract/document/11601131"
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 1</a>
+      >TPAMI2026</a>
       ·
       <a
-        href="论文2链接"
+        href="https://ieeexplore.ieee.org/abstract/document/11314785"
         target="_blank"
         rel="noopener noreferrer"
-      >Paper 2</a>
+      >TPAMI2025</a>
+      ·
+      <a
+        href="https://ieeexplore.ieee.org/abstract/document/10655113"
+        target="_blank"
+        rel="noopener noreferrer"
+      >CVPR2024</a>
     </div>
 
   </div>
