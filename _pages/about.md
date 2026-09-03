@@ -68,7 +68,7 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <strong>Papers:</strong>
+      <span>Papers:</span>
       <a
         href="https://arxiv.org/abs/2602.12532"
         target="_blank"
@@ -106,7 +106,7 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
 <div class="representative-project-paper">
-      <strong>Papers:</strong>
+      <span>Papers:</span>
       <a
         href="论文1链接"
         target="_blank"
@@ -145,7 +145,7 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <strong>Papers:</strong>
+      <span>Papers:</span>
       <a
         href="论文1链接"
         target="_blank"
@@ -184,7 +184,7 @@ My current research interests include **Robotics**, **Physical AI**,
     </div>
 
   <div class="representative-project-paper">
-      <strong>Papers:</strong>
+      <span>Papers:</span>
       <a
         href="论文1链接"
         target="_blank"
@@ -270,13 +270,10 @@ My current research interests include **Robotics**, **Physical AI**,
   font-size: 0.9rem;
 }
 
-.representative-project-paper strong {
-  color: var(--global-theme-color);
-}
-
+.representative-project-paper span,
 .representative-project-paper a {
   color: var(--global-theme-color);
-  font-weight: 500;
+  font-weight: normal;
   text-decoration: none;
 }
 
