@@ -27,7 +27,7 @@ I am currently a Research Fellow in
 National University of Singapore (NUS),
 working with
 [Prof. Mike Shou Zheng](https://sites.google.com/view/showlab).
- Prior to this, I spent a wonderful year as a Research Fellow at Social Robotics Lab (NUS), working with [Prof. Sam Ge Shuzhi (IEEE Fellow)](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I previously worked as a AI Research Scientist at Huawei Co., Ltd. Wuhan Research Institute in China.
+ Prior to this, I spent a wonderful year as a Research Fellow at Social Robotics Lab (NUS), working with [Prof. Sam Ge Shuzhi](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I previously worked as a AI Research Scientist at Huawei Co., Ltd. Wuhan Research Institute in China.
 
 I received my Ph.D. degree from
 Hunan University in 2024, where I was
@@ -42,7 +42,7 @@ My current research interests include **Robotics**, **Physical AI**,
 
 <div style="height: 60px;"></div>
 
-<h2>representative projects</h2>
+<h2>representative research</h2>
 
 <div class="representative-project-grid">
 
@@ -55,6 +55,14 @@ My current research interests include **Robotics**, **Physical AI**,
     <div class="representative-project-description">
        Develop generalist robot policies that integrate multi-modality states, including vision, language, touch and robot control, from large-scale human videos, perform diverse real-world tasks with minimal robot-specific demonstrations.
     </div>
+    <div class="representative-project-paper">
+  Papers:
+  <a href="https://arxiv.org/abs/2602.12532" target="_blank">ICRA2026</a>
+  ·
+  <a href="论文2链接" target="_blank">TII2026</a>
+      
+</div>
+    
   </a>
 
   <a class="representative-project-card" href="项目2链接">
@@ -136,6 +144,34 @@ My current research interests include **Robotics**, **Physical AI**,
   padding: 0 14px 14px;
   font-size: 0.9rem;
   color: #999;
+}
+
+.representative-project-main {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.representative-project-main:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.representative-project-paper {
+  padding: 0 14px 14px;
+  font-size: 0.9rem;
+  color: #b39ddb;
+}
+
+.representative-project-paper a {
+  color: #b39ddb;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.representative-project-paper a:hover {
+  color: #d1c4e9;
+  text-decoration: underline;
 }
 
 @media (max-width: 700px) {
